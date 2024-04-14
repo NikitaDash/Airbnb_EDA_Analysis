@@ -1,5 +1,8 @@
 # Airbnb_EDA_Analysis
 
+![image](https://github.com/NikitaDash/Airbnb_EDA_Analysis/assets/139312819/d8a24b77-d8a1-40ca-8ff1-751b069bac2d)
+
+
 # Project Summery
 
 The Exploratory Data Analysis (EDA) of Airbnb booking analysis is a critical component of the overall project aimed at understanding the various factors that influence customer booking decisions on the Airbnb platform. The EDA will provide insights into the patterns and trends in the booking data and identify any underlying relationships between variables that may impact customer behavior.
@@ -55,6 +58,8 @@ availability_365 = Availability around the year
 * Google Colab is used as IDE.
 * Pandas and NumPy are used for Data Manipulation & Pre-processing and Mathematical functions respectively.
 * For visualization of the plots, Matplotlib and Seaborn are used
+
+  
   ![image](https://github.com/NikitaDash/Airbnb_EDA_Analysis/assets/139312819/f8b3b6fc-e5c2-4fac-a1a9-a6484956f20d)
 
   
