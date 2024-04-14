@@ -1,12 +1,8 @@
 # Airbnb_EDA_Analysis
 
 # Project Summery
-The Airbnb NYC Analysis project is an exploratory data analysis (EDA) project conducted using Python. The project focuses on analyzing the Airbnb listings data in New York City to gain insights into the rental market.
-The EDA begins with data preprocessing, which involves cleaning and transforming the dataset to make it suitable for analysis. This step includes handling missing values, removing irrelevant columns, and converting data types as necessary.
-Once the data is prepared, the project delves into descriptive analysis, aiming to understand the distribution and characteristics of the Airbnb listings in NYC. This analysis includes examining factors such as listing prices, neighborhood popularity, property types, and availability throughout the year.
-The project then moves on to uncovering patterns and relationships within the dataset. It explores correlations between variables, investigates the impact of different features on listing prices, and identifies any seasonality or trends in rental demand.
-Visualizations, such as histograms, scatter plots, and heatmaps, are utilized to effectively present the findings and aid in understanding the data. These visual representations help highlight key insights and trends in the Airbnb market in NYC.
-Overall, the Airbnb NYC Analysis project utilizes Python and EDA techniques to provide a comprehensive overview of the rental market in New York City, enabling stakeholders to make data-driven decisions and gain valuable insights for various purposes, such as investment strategies, pricing optimizations, and understanding the dynamics of the Airbnb ecosystem in the city.
+
+The Airbnb NYC Analysis project in Python conducts exploratory data analysis (EDA) on New York City Airbnb listings. It preprocesses data, conducts descriptive analysis on prices, neighborhood popularity, and property types, and uncovers patterns and correlations. Visualizations aid in presenting insights, enabling data-driven decisions for stakeholders regarding investment, pricing, and understanding Airbnb dynamics in NYC.
 
 # Problem Statement
 
@@ -21,3 +17,7 @@ Overall, the Airbnb NYC Analysis project utilizes Python and EDA techniques to p
 5.Rental Demand and Availability: What is the demand for Airbnb rentals in different neighborhoods of NYC? Which neighborhoods have the highest and lowest availability of listings? Are there specific periods or seasons when the demand and availability fluctuate?
 
 By addressing these objectives, the project aims to provide stakeholders with valuable insights and data-driven recommendations. These insights can be used for various purposes, including optimizing pricing strategies, understanding market dynamics, and making informed decisions related to Airbnb rentals in New York City.
+
+
+
+
