@@ -1,6 +1,7 @@
 # Airbnb_EDA_Analysis
 
-![image](https://github.com/NikitaDash/Airbnb_EDA_Analysis/assets/139312819/d8a24b77-d8a1-40ca-8ff1-751b069bac2d)
+![image](https://github.com/NikitaDash/Airbnb_EDA_Analysis/assets/139312819/c8113aec-d39b-4957-8467-2b6e7d7d3ad1)
+
 
 
 # Project Summery
@@ -32,20 +33,35 @@ By addressing these objectives, the project aims to provide stakeholders with va
 # Airbnb Columns elements:
 
 id = It is unique for each bookings
+
 name = Name of the Airbnb
+
 host_id = id of the host
-host_name = name of the host 
+
+host_name = name of the host
+
 neighbourhood_group =  Location of the Airbnb
+
 neighbourhood = Area of the Airbnb 
+
 latitude = latitude of the Airbnb
+
 longitude = longitude of the Airbnb
+
 room_type = Types of room in the Airbnb like private room, shared room, Entire home/apt
+
 price = Price of Airbnb based on room types
+
 minimum_nights = minimum nights spend by customers
+
 number_of_reviews = reviews by customer
+
 last_review = Content of the last review
+
 reviews_per_month = Number of checks per month
+
 calculated_host_listings_count = Total count
+
 availability_365 = Availability around the year
 
 # Key Findings:
