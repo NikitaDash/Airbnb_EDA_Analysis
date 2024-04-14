@@ -1,4 +1,4 @@
-# Airbnb_EDA_Analysis
+# Airbnb EDA Analysis
 
 ![image](https://github.com/NikitaDash/Airbnb_EDA_Analysis/assets/139312819/c8113aec-d39b-4957-8467-2b6e7d7d3ad1)
 
